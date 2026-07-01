@@ -1,18 +1,47 @@
-# 💫 About Me:
-# Hi 👋, I'm Rishav Kumar<br><br>🎓 BCA Student | 🛡️ Aspiring Cybersecurity Analyst | 💻 Python Learner<br><br>🔭 I’m currently working on<br>- Building cybersecurity projects with Python<br>- Strengthening my Linux, Networking, and SOC Analyst skills<br>- Creating a strong GitHub portfolio<br><br>👯 I’m looking to collaborate on<br>- Beginner-friendly Cybersecurity projects<br>- Python automation projects<br>- Open Source Security Tools<br><br>🤝 I’m looking for help with<br>- SOC Analyst roadmap<br>- SIEM tools (Splunk, Wazuh)<br>- Detection Engineering<br>- Open Source contributions<br><br>🌱 I’m currently learning<br>- Python<br>- SQL<br>- Linux<br>- Computer Networking<br>- TryHackMe<br>- Git & GitHub<br>- SOC Fundamentals<br><br>💬 Ask me about<br>- Cybersecurity<br>- Python Basics<br>- Linux<br>- Git & GitHub<br>- TryHackMe<br><br>⚡ Fun fact<br>I enjoy learning how attackers think so I can build better defenses. 🔐
+<!-- Banner / Header -->
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rishav%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cybersecurity%20Analyst%20%7C%20SOC%20%7C%20Python&descAlignY=60&descSize=18" width="100%"/>
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B+I'm+Rishav+Kumar;BCA+Student+%F0%9F%8E%93;Aspiring+Cybersecurity+Analyst+%F0%9F%9B%A1%EF%B8%8F;SOC+%7C+SIEM+%7C+Detection+Engineering;Python+Automation+Enthusiast+%F0%9F%90%8D" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishav-kumar-317134368/) 
+  <br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RishavK1811&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RishavK1811&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RishavK1811&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <a href="https://linkedin.com/in/rishav-kumar-317134368">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RishavK1811">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RishavK1811&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=RishavK1811&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```yaml
+name: Rishav Kumar
+role: Aspiring Cybersecurity Analyst 🛡️
+education: BCA Student 🎓
+focus:
+  - Cybersecurity Projects with Python 🐍
+  - Linux • Networking • SOC Analyst Skills
+  - Building a strong GitHub Portfolio
+learning:
+  - Python | SQL | Linux
+  - Computer Networking
+  - TryHackMe | Git & GitHub
+  - SOC Fundamentals | SIEM Tools
+looking_to_collaborate:
+  - Beginner-friendly Cybersecurity Projects
+  - Python Automation Projects
+  - Open Source Security Tools
+need_help_with:
+  - SOC Analyst Roadmap
+  - SIEM Tools (Splunk, Wazuh)
+  - Detection Engineering
+fun_fact: "I enjoy learning how attackers think — so I can build better defenses. 🔐"
