@@ -32,3 +32,33 @@
 ```bash
 ┌──(rishav㉿kali)-[~/portfolio]
 └─$ whoami --verbose
+╔══════════════════════════════════════════════════════════════╗
+║                    👨‍💻 IDENTITY CARD 👨‍💻                       ║
+╠══════════════════════════════════════════════════════════════╣
+║  Name         : Rishav Kumar                                 ║
+║  Role         : Aspiring Cybersecurity Analyst 🛡️            ║
+║  Education    : BCA Student 🎓                               ║
+║  Location     : India 🇮🇳                                     ║
+║  Specialty    : Blue Team | SOC | Defensive Security         ║
+║  Mindset      : "Think Offense, Build Defense" 🔐            ║
+╠══════════════════════════════════════════════════════════════╣
+║  🎯 CURRENTLY WORKING ON                                     ║
+║  ├── Building Cybersecurity Projects with Python 🐍          ║
+║  ├── Strengthening Linux, Networking & SOC Skills 🐧         ║
+║  └── Creating a Strong GitHub Portfolio 📂                   ║
+║                                                              ║
+║  🌱 LEARNING JOURNEY                                         ║
+║  ├── Python • SQL • Linux • Networking                       ║
+║  ├── TryHackMe Rooms & CTF Challenges 🎯                     ║
+║  ├── Git, GitHub & Version Control                           ║
+║  └── SOC Fundamentals & SIEM Tools                           ║
+║                                                              ║
+║  🤝 OPEN TO COLLABORATE ON                                   ║
+║  ├── Beginner-Friendly Cybersecurity Projects                ║
+║  ├── Python Automation & Security Scripts                    ║
+║  └── Open Source Security Tools                              ║
+║                                                              ║
+║  💡 FUN FACT                                                 ║
+║  └── "I love studying attacker mindsets to build             ║
+║       stronger defenses." 🔐                                 ║
+╚══════════════════════════════════════════════════════════════╝
